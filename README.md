@@ -1,5 +1,4 @@
 # Proyecto_FlujodeDatos
-Proyecto de flujo de datos
 # Alerta de estaciones sin bicis con aprendizaje en flujo de datos
 
 Proyecto de la asignatura **Aprendizaje Automático en Series Temporales y Flujos de Datos** (Máster en Inteligencia Artificial Aplicada, UC3M).
